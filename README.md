@@ -1,2 +1,1 @@
-# Ex01Aula22
-Exercicio 01 da aula 22
+Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
